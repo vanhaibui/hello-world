@@ -1,2 +1,5 @@
 # hello-world
-just a repository
+
+I am Van Hai Bui
+
+Github learner!
