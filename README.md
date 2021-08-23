@@ -1,5 +1,3 @@
 # hello-world
 
-I am Van Hai Bui
-
-Github learner!
+Bui van hai hoc github!
