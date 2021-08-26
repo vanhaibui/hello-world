@@ -1,3 +1,3 @@
 # hello-world
 
-test linh tinh thoi nao!dsdsdsdsdsdsdsd
+test mot so tinh nang cua git
