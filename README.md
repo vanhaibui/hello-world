@@ -1,3 +1,3 @@
 # hello-world
 
-test mot so tinh nang cua git
+test mot so tinh nang cua git with new branch
