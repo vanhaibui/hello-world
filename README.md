@@ -1,9 +1,9 @@
 # hello-world
 
-chinh sua tu edit-branch, dang test :)
+Sap ngon nghe het roi :)
 
 ##gdddddddddd
 
-bui van hai dap choai
+TEST thu tren branch moi
 
-up code len tren github
+Sau do chuyen sang main sau tren github

@@ -1,7 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 26 01:23:43 2021
+import numpy as np
 
-@author: HAI
-"""
+a = np.array([1,2,3,4,5,6,7,8,9])
 
+print(a)
