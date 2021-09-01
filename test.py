@@ -6,3 +6,5 @@ d=a*b
 print(c)
 print(d)
 print(c*d)
+
+# test result looks great!
