@@ -1,10 +1,8 @@
-import numpy as np
-a=1
-b=2
-c= a+b 
-d=a*b
-print(c)
-print(d)
-print(c*d)
+# da test lai, moi thu deu on ca
 
-# test result looks great!
+import numpy as np
+
+# lam lai nao
+a = np.array([[1,2,3], [4,5,6], [7,8,9]])
+print(a)
+print("hai dai ca")
